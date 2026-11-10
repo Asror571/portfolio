@@ -60,19 +60,24 @@ function Hero({ t }) {
             <a className="textlink" href="#experience">{t("View My Experience ↗")}</a>
           </div>
         </div>
-        <div className="art" role="img" aria-label={t("AQ personal monogram: people, trust and value")}>
-          <div className="motion-grid" aria-hidden="true" />
-          <div className="monogram">aq</div>
-          <div className="asterisk">✳</div>
-          <div className="artlabel a">
-            <span>↗</span>
-            {t(" Conversations create opportunities.")}
+        <figure className="portrait-card">
+          <div className="portrait-frame">
+            <img
+              src="/asror-portrait.webp"
+              width="960"
+              height="960"
+              alt={t("Portrait of Asror Qurbonazarov")}
+              fetchPriority="high"
+            />
           </div>
-          <div className="artlabel b">
-            <span>◎</span>
-            {t(" People. Trust. Value.")}
-          </div>
-        </div>
+          <figcaption>
+            <span>
+              <strong>{t(" Asror Qurbonazarov").trim()}</strong>
+              <span className="portrait-role">{t("Sales Manager")}</span>
+            </span>
+            <span className="portrait-initials" aria-hidden="true">AQ</span>
+          </figcaption>
+        </figure>
       </div>
       <div className="hero-bottom">
         <div className="specialties">

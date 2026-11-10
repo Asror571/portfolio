@@ -18,9 +18,6 @@
     "I’m Asror Qurbonazarov — a Sales Manager passionate about customer relationships, business development, and creating value through effective sales.": "Men Asror Qurbonazarovman. Sotuv menejeri sifatida mijozlar bilan munosabat qurish, biznesni rivojlantirish va foydali yechim taklif qilishga e’tibor beraman.",
     "Let’s Work Together ": "Birga ishlaylik",
     "View My Experience ↗": "Tajribamni ko‘rish ↗",
-    "AQ personal monogram: people, trust and value": "AQ monogrammasi",
-    " Conversations create opportunities.": "Har bir suhbat yangi imkoniyat.",
-    " People. Trust. Value.": "Mijoz. Ishonch. Qiymat.",
     "EDUCATIONAL SALES": "TA’LIM XIZMATLARI SAVDOSI",
     "CUSTOMER RELATIONS": "MIJOZLAR BILAN ISHLASH",
     "FMCG DISTRIBUTION": "FMCG DISTRIBUTSIYASI",
@@ -147,7 +144,8 @@
     "Combined German course sales in September and October.": "Sentabr va oktabr oylaridagi nemis tili kursi sotuvlari jami.",
     " EDUCATION & COURSES": "TA’LIM VA KURSLAR",
     "Full-Stack Web Development Course": "Full-Stack veb dasturlash kursi",
-    "Practical frontend and backend development with React and Node.js.": "React va Node.js yordamida amaliy frontend va backend dasturlash."
+    "Practical frontend and backend development with React and Node.js.": "React va Node.js yordamida amaliy frontend va backend dasturlash.",
+    "Portrait of Asror Qurbonazarov": "Asror Qurbonazarov portreti"
   },
   "ru": {
     "Asror Qurbonazarov home": "Главная",
@@ -168,9 +166,6 @@
     "I’m Asror Qurbonazarov — a Sales Manager passionate about customer relationships, business development, and creating value through effective sales.": "Я Асрор Курбоназаров, менеджер по продажам. Развиваю отношения с клиентами, помогаю бизнесу расти и подбираю решения под потребности покупателей.",
     "Let’s Work Together ": "Давайте работать вместе",
     "View My Experience ↗": "Посмотреть опыт ↗",
-    "AQ personal monogram: people, trust and value": "Монограмма AQ",
-    " Conversations create opportunities.": "Каждый разговор открывает возможности.",
-    " People. Trust. Value.": "Клиент. Доверие. Ценность.",
     "EDUCATIONAL SALES": "ПРОДАЖИ В ОБРАЗОВАНИИ",
     "CUSTOMER RELATIONS": "РАБОТА С КЛИЕНТАМИ",
     "FMCG DISTRIBUTION": "ДИСТРИБУЦИЯ FMCG",
@@ -297,6 +292,7 @@
     "Combined German course sales in September and October.": "Продажи курсов немецкого языка за сентябрь и октябрь.",
     " EDUCATION & COURSES": "ОБРАЗОВАНИЕ И КУРСЫ",
     "Full-Stack Web Development Course": "Курс Full-Stack веб-разработки",
-    "Practical frontend and backend development with React and Node.js.": "Практическая разработка фронтенда и бэкенда на React и Node.js."
+    "Practical frontend and backend development with React and Node.js.": "Практическая разработка фронтенда и бэкенда на React и Node.js.",
+    "Portrait of Asror Qurbonazarov": "Портрет Асрора Курбоназарова"
   }
 }
